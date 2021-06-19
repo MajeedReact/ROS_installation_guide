@@ -42,4 +42,8 @@ Create a workspace for catkin_make by running the following commands:
 
 6. Compile the package by running `catkin_make`
 7. Launch the package by typing `roslaunch robot_arm_pkg check_motors.launch`
+And you should have something like this: 
+![ros_robot_arm](https://user-images.githubusercontent.com/53359513/122626716-a2442e00-d0b4-11eb-9324-7c81219c9ab9.jpg)
+![ros_robot_arm2](https://user-images.githubusercontent.com/53359513/122626807-023ad480-d0b5-11eb-970b-f58c6bc9adab.jpg)
+![ros_robot_arm3](https://user-images.githubusercontent.com/53359513/122626808-04049800-d0b5-11eb-8bf6-76887030855e.jpg)
 
